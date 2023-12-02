@@ -13,8 +13,8 @@ My personal website, built with [Next.js](https://nextjs.org/), [Tailwind CSS](h
 
 
 ```sh-session
-git clone https://github.com/chronark/chronark.com.git
-cd chronark.com
+git clone https://github.com/LelandJin/nextjs-portfolio-pageview-counter.git
+cd nextjs-portfolio-pageview-counter
 ```
 
 

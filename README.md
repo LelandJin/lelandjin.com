@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://chronark.com"><h1 align="center">lelandjin.com</h1></a>
+    <a href="https://lelandjin.com"><h1 align="center">lelandjin.com</h1></a>
 
 My personal website, built with [Next.js](https://nextjs.org/), [Tailwind CSS](https://tailwindcss.com/), [Upstash](https://upstash.com?ref=chronark.com), [Contentlayer](https://www.contentlayer.dev/) and deployed to [Vercel](https://vercel.com/).
 
@@ -18,7 +18,7 @@ cd nextjs-portfolio-pageview-counter
 ```
 
 
-Create a `.env` file similar to [`.env.example`](https://github.com/chronark/chronark.com/blob/main/.env.example).
+Create a `.env` file
 
 Then install dependencies and run the development server:
 ```sh-session
